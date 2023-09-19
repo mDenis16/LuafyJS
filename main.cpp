@@ -1,11 +1,16 @@
-#include <iostream>
+
+#include "inc.hpp"
+
 
 #include "CLuaComponent.hpp"
+#include "CLuaBlock.hpp"
 #include "CLuaFunction.hpp"
 #include "CLuaConditional.hpp"
 #include "CLuaVariable.hpp"
 #include "CLuaLocalVariable.hpp"
 #include "CLuaGlobalVariable.hpp"
+
+
 
 #include "CLuaParser.hpp"
 

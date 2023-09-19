@@ -1,7 +1,7 @@
 
 
 #include <iostream>
-class CLuaVariable : CLuaComponent {
+class CLuaVariable : public CLuaComponent {
 public:
     std::string name;
 };
