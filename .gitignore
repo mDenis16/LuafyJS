@@ -1,0 +1,6 @@
+build/
+CMakeCache.txt
+lua-parser
+Makefile
+cmake_install.cmake_install
+CMakeFiles/
