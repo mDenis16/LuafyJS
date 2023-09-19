@@ -1,0 +1,4 @@
+class CLuaBlock{
+public:
+    
+};

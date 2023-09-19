@@ -1,0 +1,2 @@
+/Users/denistopor/repos/lua2js/lua-parser/build/CMakeFiles/edit_cache.dir
+/Users/denistopor/repos/lua2js/lua-parser/build/CMakeFiles/rebuild_cache.dir

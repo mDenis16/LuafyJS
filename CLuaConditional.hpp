@@ -1,0 +1,4 @@
+class CLuaConditional : CLuaComponent {
+public:
+
+};
